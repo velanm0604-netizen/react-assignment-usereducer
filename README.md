@@ -1,19 +1,5 @@
 # React useReducer Questions
 
-Each question is separated into its own component folder.
-
-```text
-src/
-├── App.jsx
-├── App.css
-├── main.jsx
-└── components/
-    ├── Question1/
-    │   └── question1.jsx
-    └── Question2/
-        └── question2.jsx
-```
-
 ## Question 1
 
 Create one form with:
